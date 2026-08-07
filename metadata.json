@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tracker",
+  "description": "A minimalist daily habit tracker with dot matrix activity heatmaps and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
